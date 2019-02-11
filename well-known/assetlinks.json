@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.guarana.cdcapp",
+    "sha256_cert_fingerprints":
+    ["64:09:1D:F2:CC:01:95:84:98:FE:B8:48:D2:11:85:A0:8A:ED:F8:CA:EB:01:41:46:FA:5F:AA:F0:3F:F8:D4:09"]
+  }
+}]
